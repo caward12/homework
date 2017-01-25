@@ -3,7 +3,8 @@
 #What's the (next) most trivial possible case?
 #How do we achieve this goal?
 
-#1. greet customer   
+
+#1. greet customer  
 #2. wait for input from customer
 #3. after every input check these conditions: 
     #4. If no input (just enter) respond with HELLO?! return to step 2
